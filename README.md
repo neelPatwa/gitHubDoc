@@ -1,2 +1,3 @@
 # gitHubDoc
-Documentaion on Git
+Git Commands
+
