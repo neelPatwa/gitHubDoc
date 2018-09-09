@@ -1,12 +1,18 @@
 git - the simple guide
 
-please report issues on github 
+
  
 setup
+
 Download git for OSX 
+
 Download git for Windows 
+
 Download git for Linux 
+
 create a new repository
+
+
 create a new directory, open it and perform a 
 git init
 to create a new git repository. 
